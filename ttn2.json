@@ -1,0 +1,762 @@
+[
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJfwH0",
+      "tempc1": 25.62,
+      "tempc2": 24.31,
+      "time": "2021-04-01T19:35:44.098402346Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJcgGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.18,
+      "time": "2021-04-01T19:50:45.795809294Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JngGQ",
+      "tempc1": 25.75,
+      "tempc2": 24.62,
+      "time": "2021-04-01T20:05:47.494864509Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJngH0",
+      "tempc1": 25.56,
+      "tempc2": 24.62,
+      "time": "2021-04-01T20:20:49.19213546Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJngH0",
+      "tempc1": 25.56,
+      "tempc2": 24.62,
+      "time": "2021-04-01T20:35:50.891231184Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJiwH0",
+      "tempc1": 25.56,
+      "tempc2": 24.43,
+      "time": "2021-04-01T20:50:52.584724423Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Ce8JkgGQ",
+      "tempc1": 25.43,
+      "tempc2": 24.5,
+      "time": "2021-04-01T21:05:54.281686794Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CeMJkgGQ",
+      "tempc1": 25.31,
+      "tempc2": 24.5,
+      "time": "2021-04-01T21:20:55.979406539Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CdAJkgH0",
+      "tempc1": 25.12,
+      "tempc2": 24.5,
+      "time": "2021-04-01T21:35:57.677652678Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CekJhQH0",
+      "tempc1": 25.37,
+      "tempc2": 24.37,
+      "time": "2021-04-01T21:50:59.37333737Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJbAGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.12,
+      "time": "2021-04-01T22:06:01.069275013Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJcgGQ",
+      "tempc1": 25.56,
+      "tempc2": 24.18,
+      "time": "2021-04-01T22:21:02.765633355Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CfYJfwGQ",
+      "tempc1": 25.5,
+      "tempc2": 24.31,
+      "time": "2021-04-01T22:36:04.462214592Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJhQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.37,
+      "time": "2021-04-01T22:51:06.158682962Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJhQGQ",
+      "tempc1": 25.87,
+      "tempc2": 24.37,
+      "time": "2021-04-01T23:06:07.856666395Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJkgH0",
+      "tempc1": 25.62,
+      "tempc2": 24.5,
+      "time": "2021-04-01T23:21:09.550367678Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJmAGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.56,
+      "time": "2021-04-01T23:36:11.244583715Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJngH0",
+      "tempc1": 25.62,
+      "tempc2": 24.62,
+      "time": "2021-04-01T23:51:12.940982676Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJkgH0",
+      "tempc1": 25.87,
+      "tempc2": 24.5,
+      "time": "2021-04-02T00:06:14.634720145Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJqwH0",
+      "tempc1": 25.62,
+      "tempc2": 24.75,
+      "time": "2021-04-02T00:21:16.332380542Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJsQGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.81,
+      "time": "2021-04-02T00:36:18.024157322Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJtwGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.87,
+      "time": "2021-04-02T00:51:19.71751788Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Ci4JngGQ",
+      "tempc1": 26.06,
+      "tempc2": 24.62,
+      "time": "2021-04-02T01:06:21.412113487Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JtwGQ",
+      "tempc1": 25.75,
+      "tempc2": 24.87,
+      "time": "2021-04-02T01:21:23.106324475Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJtwGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.87,
+      "time": "2021-04-02T01:36:24.80091575Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T01:51:26.50541897Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CigJngH0",
+      "tempc1": 26,
+      "tempc2": 24.62,
+      "time": "2021-04-02T02:06:28.191068835Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJtwGQ",
+      "tempc1": 25.81,
+      "tempc2": 24.87,
+      "time": "2021-04-02T02:21:29.883032473Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQH0",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T02:36:31.576326432Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T02:51:33.369381972Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CiEJqwGQ",
+      "tempc1": 25.93,
+      "tempc2": 24.75,
+      "time": "2021-04-02T03:06:35.06604152Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJtwGQ",
+      "tempc1": 25.81,
+      "tempc2": 24.87,
+      "time": "2021-04-02T03:21:36.754539587Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJxAGQ",
+      "tempc1": 25.68,
+      "tempc2": 25,
+      "time": "2021-04-02T03:36:38.449777911Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJxAGQ",
+      "tempc1": 25.68,
+      "tempc2": 25,
+      "time": "2021-04-02T03:51:40.154918749Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJqwGQ",
+      "tempc1": 25.81,
+      "tempc2": 24.75,
+      "time": "2021-04-02T04:06:41.832443595Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJsQGQ",
+      "tempc1": 25.87,
+      "tempc2": 24.81,
+      "time": "2021-04-02T04:21:43.525678856Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T04:36:45.219100328Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T04:51:46.911245078Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CiEJsQGQ",
+      "tempc1": 25.93,
+      "tempc2": 24.81,
+      "time": "2021-04-02T05:06:48.603982626Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CigJqwGQ",
+      "tempc1": 26,
+      "tempc2": 24.75,
+      "time": "2021-04-02T05:21:50.295906168Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T05:36:51.989641808Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CggJvQGQ",
+      "tempc1": 25.68,
+      "tempc2": 24.93,
+      "time": "2021-04-02T05:51:53.682906247Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJqwGQ",
+      "tempc1": 25.87,
+      "tempc2": 24.75,
+      "time": "2021-04-02T06:06:55.37738498Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Ci4JngGQ",
+      "tempc1": 26.06,
+      "tempc2": 24.62,
+      "time": "2021-04-02T06:21:57.066645544Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJvQGQ",
+      "tempc1": 25.81,
+      "tempc2": 24.93,
+      "time": "2021-04-02T06:36:58.802552799Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJxAGQ",
+      "tempc1": 25.81,
+      "tempc2": 25,
+      "time": "2021-04-02T06:52:00.461663074Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJvQH0",
+      "tempc1": 25.87,
+      "tempc2": 24.93,
+      "time": "2021-04-02T07:07:02.148022723Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CmAJsQGQ",
+      "tempc1": 26.56,
+      "tempc2": 24.81,
+      "time": "2021-04-02T07:22:03.841455713Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "Ck0JygH0",
+      "tempc1": 26.37,
+      "tempc2": 25.06,
+      "time": "2021-04-02T07:37:05.536489936Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CekJvQH0",
+      "tempc1": 25.37,
+      "tempc2": 24.93,
+      "time": "2021-04-02T07:52:07.231003981Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cd0JsQGQ",
+      "tempc1": 25.25,
+      "tempc2": 24.81,
+      "time": "2021-04-02T08:07:09.000854234Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJpAGQ",
+      "tempc1": 25.56,
+      "tempc2": 24.68,
+      "time": "2021-04-02T08:22:10.593558013Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CcoJpAH0",
+      "tempc1": 25.06,
+      "tempc2": 24.68,
+      "time": "2021-04-02T08:37:12.29028806Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CcQJkgH0",
+      "tempc1": 25,
+      "tempc2": 24.5,
+      "time": "2021-04-02T08:52:13.985448235Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CcQJngGQ",
+      "tempc1": 25,
+      "tempc2": 24.62,
+      "time": "2021-04-02T09:07:15.780735043Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CeMJkgGQ",
+      "tempc1": 25.31,
+      "tempc2": 24.5,
+      "time": "2021-04-02T09:22:17.477386291Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CcQJiwGQ",
+      "tempc1": 25,
+      "tempc2": 24.43,
+      "time": "2021-04-02T09:37:19.173772765Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CbcJiwGQ",
+      "tempc1": 24.87,
+      "tempc2": 24.43,
+      "time": "2021-04-02T09:52:20.868134933Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CbEJkgGQ",
+      "tempc1": 24.81,
+      "tempc2": 24.5,
+      "time": "2021-04-02T10:07:22.565321902Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CdYJiwGQ",
+      "tempc1": 25.18,
+      "tempc2": 24.43,
+      "time": "2021-04-02T10:22:24.261002289Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CfwJiwH0",
+      "tempc1": 25.56,
+      "tempc2": 24.43,
+      "time": "2021-04-02T10:37:26.072361542Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CekJngH0",
+      "tempc1": 25.37,
+      "tempc2": 24.62,
+      "time": "2021-04-02T10:52:27.654046813Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cd0JiwGQ",
+      "tempc1": 25.25,
+      "tempc2": 24.43,
+      "time": "2021-04-02T11:07:29.35117215Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JfwGQ",
+      "tempc1": 25.75,
+      "tempc2": 24.31,
+      "time": "2021-04-02T11:22:31.04561766Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JfwH0",
+      "tempc1": 25.75,
+      "tempc2": 24.31,
+      "time": "2021-04-02T11:37:32.743349586Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "ChUJfwGQ",
+      "tempc1": 25.81,
+      "tempc2": 24.31,
+      "time": "2021-04-02T11:52:34.341354018Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJiwH0",
+      "tempc1": 25.87,
+      "tempc2": 24.43,
+      "time": "2021-04-02T12:07:36.038955422Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JhQGQ",
+      "tempc1": 25.75,
+      "tempc2": 24.37,
+      "time": "2021-04-02T12:22:37.742905688Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CigJhQGQ",
+      "tempc1": 26,
+      "tempc2": 24.37,
+      "time": "2021-04-02T12:37:39.435288854Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Ce8JqwGQ",
+      "tempc1": 25.43,
+      "tempc2": 24.75,
+      "time": "2021-04-02T12:52:41.138614265Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cd0JqwGQ",
+      "tempc1": 25.25,
+      "tempc2": 24.75,
+      "time": "2021-04-02T13:07:42.829159937Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cd0JpAGQ",
+      "tempc1": 25.25,
+      "tempc2": 24.68,
+      "time": "2021-04-02T13:22:44.543744721Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Ce8JpAGQ",
+      "tempc1": 25.43,
+      "tempc2": 24.68,
+      "time": "2021-04-02T13:37:46.223861541Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CeMJpAGQ",
+      "tempc1": 25.31,
+      "tempc2": 24.68,
+      "time": "2021-04-02T13:52:47.919419334Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CfYJngH0",
+      "tempc1": 25.5,
+      "tempc2": 24.62,
+      "time": "2021-04-02T14:07:49.616747652Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CekJpAGQ",
+      "tempc1": 25.37,
+      "tempc2": 24.68,
+      "time": "2021-04-02T14:22:51.316290048Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CgIJmAGQ",
+      "tempc1": 25.62,
+      "tempc2": 24.56,
+      "time": "2021-04-02T14:37:53.013093764Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CdAJpAH0",
+      "tempc1": 25.12,
+      "tempc2": 24.68,
+      "time": "2021-04-02T14:52:54.70998118Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CcQJngGQ",
+      "tempc1": 25,
+      "tempc2": 24.62,
+      "time": "2021-04-02T15:07:56.40558357Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CcoJmAGQ",
+      "tempc1": 25.06,
+      "tempc2": 24.56,
+      "time": "2021-04-02T15:22:58.100339805Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CdAJYAH0",
+      "tempc1": 25.12,
+      "tempc2": 24,
+      "time": "2021-04-02T15:37:59.797224272Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cb0JbAGQ",
+      "tempc1": 24.93,
+      "tempc2": 24.12,
+      "time": "2021-04-02T15:53:01.491524033Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CbcJfwGQ",
+      "tempc1": 24.87,
+      "tempc2": 24.31,
+      "time": "2021-04-02T16:08:03.188221668Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cb0JhQGQ",
+      "tempc1": 24.93,
+      "tempc2": 24.37,
+      "time": "2021-04-02T16:23:04.884435648Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CbcJeQH0",
+      "tempc1": 24.87,
+      "tempc2": 24.25,
+      "time": "2021-04-02T16:38:06.581314365Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CbEJcgH0",
+      "tempc1": 24.81,
+      "tempc2": 24.18,
+      "time": "2021-04-02T16:53:08.28085639Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CasJhQH0",
+      "tempc1": 24.75,
+      "tempc2": 24.37,
+      "time": "2021-04-02T17:08:09.979007038Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CZ4JhQGQ",
+      "tempc1": 24.62,
+      "tempc2": 24.37,
+      "time": "2021-04-02T17:23:11.673776683Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "CZ4JhQH0",
+      "tempc1": 24.62,
+      "tempc2": 24.37,
+      "time": "2021-04-02T17:38:13.374402879Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CdAJYAGQ",
+      "tempc1": 25.12,
+      "tempc2": 24,
+      "time": "2021-04-02T17:53:15.071554427Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "Cd0JZgH0",
+      "tempc1": 25.25,
+      "tempc2": 24.06,
+      "time": "2021-04-02T18:08:16.767051266Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "Cg8JbAGQ",
+      "tempc1": 25.75,
+      "tempc2": 24.12,
+      "time": "2021-04-02T18:38:20.16515485Z"
+    },
+    {
+      "battery": 5000,
+      "device_id": "mkrwan0",
+      "raw": "ChsJWQH0",
+      "tempc1": 25.87,
+      "tempc2": 23.93,
+      "time": "2021-04-02T18:53:21.857504541Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CiEJZgGQ",
+      "tempc1": 25.93,
+      "tempc2": 24.06,
+      "time": "2021-04-02T19:08:23.557756932Z"
+    },
+    {
+      "battery": 4000,
+      "device_id": "mkrwan0",
+      "raw": "CiEJcgGQ",
+      "tempc1": 25.93,
+      "tempc2": 24.18,
+      "time": "2021-04-02T19:23:25.252169151Z"
+    }
+  ]
