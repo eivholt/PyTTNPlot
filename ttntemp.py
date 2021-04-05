@@ -31,28 +31,28 @@ except Exception as err:
     exit()
 else:
     print('Success!')
+    temperatureDataFrame = pd.DataFrame.from_dict(temperaturesAsJson) #pd.read_json(temperaturesAsJson)
 
 #with open('ttn.json') as jsonFile:
-#    deviceDataDict = json.load(jsonFile)
-
-temperatureDataFrame = pd.DataFrame.from_dict(temperaturesAsJson) #pd.read_json(temperaturesAsJson)
-
+#    deviceDataDict = json.load(jsonFile) 
 #temperatureDataFrame = pd.DataFrame(deviceDataDict)
-temperatureDataFrame["datetime"] = pd.to_datetime(temperatureDataFrame["time"])
 
-groupedByDeviceIdDf = temperatureDataFrame[["device_id", "tempc1", "tempc2", "datetime"]].groupby("device_id")
+temperatureDf = temperatureDataFrame[temperatureDataFrame.tempc1 != -127][temperatureDataFrame.tempc2 != -127]
+temperatureDf["datetime"] = pd.to_datetime(temperatureDf["time"])
+
+groupedByDeviceIdDf = temperatureDf[["device_id", "tempc1", "tempc2", "datetime"]].groupby("device_id")
 
 for name, group in groupedByDeviceIdDf:
     group.plot(x="datetime", y="tempc1", ax=axs, label=str("%s: Temp 1" % (name)))
     group.plot(x="datetime", y="tempc2", ax=axs, label=str("%s: Temp 2" % (name)))
 
-timespan = temperatureDataFrame["datetime"].max() - temperatureDataFrame["datetime"].min()
+timespan = temperatureDf["datetime"].max() - temperatureDf["datetime"].min()
 print(timespan)
 
 hours, remainder = divmod(timespan.total_seconds(), 3600)
 minutes, seconds = divmod(remainder, 60)
 
-axs.set_title(str("Room temperature: %dH:%dM" % (hours, minutes)))
+axs.set_title(str("Room temperature last %dH, %dM" % (hours, minutes)))
 plt.xlabel("Hour of day")
 plt.ylabel("Temperature")
 plt.legend()
