@@ -11,11 +11,8 @@ import secrets
 
 from requests.exceptions import HTTPError
 
-print(f"Name of the script      : {sys.argv[0]}")
-print(f"Arguments of the script : {sys.argv[1:]}")
 argparser = argparse.ArgumentParser(description="Graph temperature measurements.")
 argparser.add_argument("--file", nargs='?', type=str, help="path to file containing json list of measurements")
-
 args = argparser.parse_args()
 inputPath = args.file
 
@@ -45,8 +42,10 @@ fig, axs = plt.subplots(sharex="all", sharey="all")
 
 temperatureDf = temperatureDataFrame[temperatureDataFrame.tempc1 != -127][temperatureDataFrame.tempc2 != -127]
 temperatureDf["datetime"] = pd.to_datetime(temperatureDf["time"])
+print(temperatureDf.head())
 
 groupedByDeviceIdDf = temperatureDf[["device_id", "tempc1", "tempc2", "datetime"]].groupby("device_id")
+print(groupedByDeviceIdDf.head())
 
 for name, group in groupedByDeviceIdDf:
     group.plot(x="datetime", y="tempc1", ax=axs, label=str("%s: Temp 1" % (name)))
